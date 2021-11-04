@@ -134,7 +134,7 @@ h3 {
     border: black; 
 }
 #tablas th{
-    background-color: rgb(212, 212, 212);
+    background-color: #F0F0F0;
 
 }
 #tablas tr{
@@ -154,6 +154,7 @@ h3 {
     color: #506464;
     width: 90%;
     margin: 0 auto;
+    background-color: #F0F0F0;
 }
 .lmsg {
     background-color: #01B95C;
